@@ -1,3 +1,4 @@
+import re
 c=0
 king=input()
 for i in king:
