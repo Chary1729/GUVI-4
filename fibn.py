@@ -10,6 +10,6 @@ for i in range(1,l-1):
   f=s
   s=n
   a.append(n)
-print(*a,end=" ")
+print(*a)
 
   
